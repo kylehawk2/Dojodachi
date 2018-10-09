@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\bin\Debug\netcoreapp2.0\Dojodachi.deps.json
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\bin\Debug\netcoreapp2.0\Dojodachi.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\bin\Debug\netcoreapp2.0\Dojodachi.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\bin\Debug\netcoreapp2.0\Dojodachi.dll
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\bin\Debug\netcoreapp2.0\Dojodachi.pdb
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\obj\Debug\netcoreapp2.0\Dojodachi.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\obj\Debug\netcoreapp2.0\Dojodachi.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\obj\Debug\netcoreapp2.0\Dojodachi.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\obj\Debug\netcoreapp2.0\Dojodachi.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\obj\Debug\netcoreapp2.0\Dojodachi.dll
+C:\Users\Kyle\Documents\C#-.NET\Dojodachi\obj\Debug\netcoreapp2.0\Dojodachi.pdb

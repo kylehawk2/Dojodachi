@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <br>
+    <p>Fullness: @ViewBag.fullness</p>
+    <p>Happiness: @ViewBag.happiness</p>
+    <p>Energy: @ViewBag.energy</p>
+    <p>Meals: @ViewBag.meals</p>
+    <br/>
+    <p>@ViewBag.message</p>
+    <br/>
+    <p>Status: @ViewBag.status</p>
+    <p>@ViewBag.alive</p>
+    <form action="feed" method="GET">
+        <button type="submit">Feed</button>
+   </form>
+    <form action="play" method="GET">
+        <button type= "submit">Play</button>
+    </form>
+    <form action="work" method="GET">
+        <button type= "submit">Work</button>
+    </form>
+    <form action="sleep" method="GET">
+        <button type= "submit">Sleep</button>
+    </form>
+    <form action="clear" method="GET">
+        <button>Clear</button>
+    </form>
+</body>
+</html>

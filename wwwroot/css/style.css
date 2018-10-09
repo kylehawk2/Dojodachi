@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(167, 167, 167)
+}
+p{
+    color: rgb(158, 107, 40);
+    display: inline-block;
+    font-size: 22px;
+    margin-right: 15px;
+}
+button{
+    color: rgb(158, 107, 40);
+    display: inline-block;
+    font-size: 22px;
+    margin-right: 15px;
+}
